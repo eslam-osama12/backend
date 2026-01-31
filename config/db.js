@@ -8,6 +8,13 @@ if (!cached) {
 }
 
 const dbConnection = async () => {
+  // Validate DB_URI
+  if (!process.env.DB_URI) {
+    throw new Error(
+      "DB_URI environment variable is not set. Please add it to Vercel Environment Variables.",
+    );
+  }
+
   // If connection exists, reuse it
   if (cached.conn) {
     console.log("Using cached database connection");
@@ -18,13 +25,21 @@ const dbConnection = async () => {
   if (!cached.promise) {
     const opts = {
       bufferCommands: false,
+      maxPoolSize: 10,
+      serverSelectionTimeoutMS: 5000,
+      socketTimeoutMS: 45000,
     };
 
+    console.log("Attempting to connect to MongoDB...");
     cached.promise = mongoose
       .connect(process.env.DB_URI, opts)
       .then((mongoose) => {
         console.log(`Database Connected: ${mongoose.connection.host}`);
         return mongoose;
+      })
+      .catch((err) => {
+        console.error("MongoDB connection error:", err.message);
+        throw err;
       });
   }
 
@@ -32,6 +47,7 @@ const dbConnection = async () => {
     cached.conn = await cached.promise;
   } catch (e) {
     cached.promise = null;
+    console.error("Failed to connect to database:", e.message);
     throw e;
   }
 
