@@ -33,7 +33,7 @@ app.post(
 // Middlewares
 const allowedOrigins = [
   process.env.FRONTEND_URL,
-  "https://https://frontend-sandy-xi-20.vercel.app",
+  "https://frontend-beta-ashy-12.vercel.app",
   "http://localhost:5173",
   "http://localhost:3000",
 ].filter(Boolean);
