@@ -9,9 +9,9 @@ if (!cached) {
 
 const dbConnection = async () => {
   // Validate DB_URI
-  if (!process.env.DB_URI) {
+  if (!process.env.MONGO_URI) {
     throw new Error(
-      "DB_URI environment variable is not set. Please add it to Vercel Environment Variables.",
+      "MONGO_URI environment variable is not set. Please add it to Vercel Environment Variables.",
     );
   }
 
@@ -32,7 +32,7 @@ const dbConnection = async () => {
 
     console.log("Attempting to connect to MongoDB...");
     cached.promise = mongoose
-      .connect(process.env.DB_URI, opts)
+      .connect(process.env.MONGO_URI, opts)
       .then((mongoose) => {
         console.log(`Database Connected: ${mongoose.connection.host}`);
         return mongoose;
