@@ -1,0 +1,2345 @@
+[
+  {
+    "productId": "697930fcaa7ec6358a2d8bf3",
+    "title": "Dell XPS 13 Plus",
+    "brokenImages": [
+      {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/notebook-xps-9320-nt-blue-gallery-4.psd",
+        "status": "BROKEN",
+        "error": ""
+      },
+      {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/notebook-xps-9320-nt-blue-gallery-4.psd",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf2",
+    "title": "MacBook Air M2",
+    "brokenImages": [
+      {
+        "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf1",
+    "title": "Samsung Galaxy S24 Ultra",
+    "brokenImages": [
+      {
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-s24-ultra-s928-sm-s928bztqmea-thumb-539573272",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-s24-ultra-s928-sm-s928bztqmea-thumb-539573272",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf0",
+    "title": "iPhone 15 Pro Max",
+    "brokenImages": [
+      {
+        "url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-15-Pro-lineup-hero-geo-230912.jpg.large.jpg",
+        "status": "BROKEN",
+        "error": ""
+      },
+      {
+        "url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-15-Pro-lineup-hero-geo-230912.jpg.large.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf8",
+    "title": "Canon EOS R6 Mark II",
+    "brokenImages": [
+      {
+        "url": "https://i1.adis.ws/i/canon/eos-r6-mark-ii-rf-24-105mm-f4-7-1-is-stm-front-on_3f9875f6237e40e184f8db1f5e5a3c98",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf9",
+    "title": "Nikon Z9",
+    "brokenImages": [
+      {
+        "url": "https://www.nikon.com/products/mirrorless-cameras/lineup/z-9/img/img_01.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bfa",
+    "title": "Dyson Home Appliances Product 11",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/11.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/11.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bfb",
+    "title": "Bosch Home Appliances Product 12",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/12.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/12.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bfc",
+    "title": "KitchenAid Home Appliances Product 13",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/13.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/13.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bfd",
+    "title": "Philips Home Appliances Product 14",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/14.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/14.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bfe",
+    "title": "Dyson Home Appliances Product 15",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/15.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/15.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bff",
+    "title": "Bosch Home Appliances Product 16",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/16.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/16.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c00",
+    "title": "KitchenAid Home Appliances Product 17",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/17.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/17.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c01",
+    "title": "Philips Home Appliances Product 18",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/18.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/18.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf6",
+    "title": "Sony WH-1000XM5",
+    "brokenImages": [
+      {
+        "url": "https://www.sony.com/image/5d02da5df552b66444568b1dbd0f69eb",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c03",
+    "title": "Bosch Home Appliances Product 20",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/20.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/20.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c04",
+    "title": "Rolex Watches Product 21",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/21.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/21.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c05",
+    "title": "Omega Watches Product 22",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/22.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/22.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c06",
+    "title": "Seiko Watches Product 23",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/23.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/23.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c07",
+    "title": "Timex Watches Product 24",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/24.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/24.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c08",
+    "title": "Rolex Watches Product 25",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/25.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/25.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8bf7",
+    "title": "LG OLED C3 65-Inch TV",
+    "brokenImages": [
+      {
+        "url": "https://www.lg.com/us/images/tvs/md07552421/gallery/D-01.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0a",
+    "title": "Seiko Watches Product 27",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/27.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/27.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0b",
+    "title": "Timex Watches Product 28",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/28.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/28.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0c",
+    "title": "Rolex Watches Product 29",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/29.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/29.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0d",
+    "title": "Omega Watches Product 30",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/30.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/30.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0e",
+    "title": "La Mer Skincare Product 31",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/31.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/31.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c0f",
+    "title": "CeraVe Skincare Product 32",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/32.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/32.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c10",
+    "title": "Neutrogena Skincare Product 33",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/33.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/33.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c11",
+    "title": "The Ordinary Skincare Product 34",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/34.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/34.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c12",
+    "title": "La Mer Skincare Product 35",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/35.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/35.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c13",
+    "title": "CeraVe Skincare Product 36",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/36.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/36.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c14",
+    "title": "Neutrogena Skincare Product 37",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/37.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/37.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c15",
+    "title": "The Ordinary Skincare Product 38",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/38.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/38.jpg",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c16",
+    "title": "La Mer Skincare Product 39",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/39.jpg",
+        "status": "BROKEN",
+        "error": ""
+      },
+      {
+        "url": "https://example.com/products/39.jpg",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c02",
+    "title": "Dyson Home Appliances Product 19",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/19.jpg",
+        "status": "BROKEN",
+        "error": ""
+      },
+      {
+        "url": "https://example.com/products/19.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c18",
+    "title": "Peloton Fitness Equipment Product 41",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/41.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/41.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c19",
+    "title": "Hydro Flask Fitness Equipment Product 42",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/42.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/42.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1a",
+    "title": "Wilson Fitness Equipment Product 43",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/43.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/43.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1b",
+    "title": "Callaway Fitness Equipment Product 44",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/44.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/44.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1c",
+    "title": "Peloton Fitness Equipment Product 45",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/45.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/45.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1d",
+    "title": "Hydro Flask Fitness Equipment Product 46",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/46.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/46.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1e",
+    "title": "Wilson Fitness Equipment Product 47",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/47.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/47.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c09",
+    "title": "Omega Watches Product 26",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/26.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/26.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c20",
+    "title": "Peloton Fitness Equipment Product 49",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/49.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/49.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c21",
+    "title": "Hydro Flask Fitness Equipment Product 50",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/50.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/50.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c22",
+    "title": "Yeti Outdoor Gear Product 51",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/51.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/51.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c23",
+    "title": "The North Face Outdoor Gear Product 52",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/52.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/52.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c24",
+    "title": "Patagonia Outdoor Gear Product 53",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/53.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/53.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c25",
+    "title": "Bose Outdoor Gear Product 54",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/54.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/54.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c26",
+    "title": "Yeti Outdoor Gear Product 55",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/55.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/55.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c27",
+    "title": "The North Face Outdoor Gear Product 56",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/56.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/56.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c28",
+    "title": "Patagonia Outdoor Gear Product 57",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/57.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/57.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c29",
+    "title": "Bose Outdoor Gear Product 58",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/58.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/58.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2a",
+    "title": "Yeti Outdoor Gear Product 59",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/59.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/59.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2b",
+    "title": "The North Face Outdoor Gear Product 60",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/60.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/60.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2c",
+    "title": "Amazon Smart Home Product 61",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/61.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/61.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2d",
+    "title": "Google Smart Home Product 62",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/62.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/62.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2e",
+    "title": "Ring Smart Home Product 63",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/63.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/63.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c2f",
+    "title": "Arlo Smart Home Product 64",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/64.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/64.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c30",
+    "title": "Amazon Smart Home Product 65",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/65.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/65.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c17",
+    "title": "CeraVe Skincare Product 40",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/40.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/40.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c32",
+    "title": "Ring Smart Home Product 67",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/67.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/67.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c33",
+    "title": "Arlo Smart Home Product 68",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/68.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/68.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c34",
+    "title": "Amazon Smart Home Product 69",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/69.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/69.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c35",
+    "title": "Google Smart Home Product 70",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/70.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/70.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c36",
+    "title": "Samsung Storage Product 71",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/71.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/71.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c37",
+    "title": "SanDisk Storage Product 72",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/72.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/72.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c38",
+    "title": "Western Digital Storage Product 73",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/73.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/73.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c39",
+    "title": "Anker Storage Product 74",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/74.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/74.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c1f",
+    "title": "Callaway Fitness Equipment Product 48",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/48.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/48.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3b",
+    "title": "SanDisk Storage Product 76",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/76.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/76.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3c",
+    "title": "Western Digital Storage Product 77",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/77.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/77.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3d",
+    "title": "Anker Storage Product 78",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/78.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/78.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3e",
+    "title": "Samsung Storage Product 79",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/79.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/79.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3f",
+    "title": "SanDisk Storage Product 80",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/80.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/80.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c40",
+    "title": "Razer Gaming Accessories Product 81",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/81.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/81.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c41",
+    "title": "Corsair Gaming Accessories Product 82",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/82.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/82.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c42",
+    "title": "SteelSeries Gaming Accessories Product 83",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/83.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/83.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c43",
+    "title": "Logitech Gaming Accessories Product 84",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/84.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/84.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c44",
+    "title": "Razer Gaming Accessories Product 85",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/85.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/85.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c45",
+    "title": "Corsair Gaming Accessories Product 86",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/86.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/86.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c46",
+    "title": "SteelSeries Gaming Accessories Product 87",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/87.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/87.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c47",
+    "title": "Logitech Gaming Accessories Product 88",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/88.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/88.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c48",
+    "title": "Razer Gaming Accessories Product 89",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/89.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/89.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c49",
+    "title": "Corsair Gaming Accessories Product 90",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/90.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/90.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4a",
+    "title": "NZXT PC Components Product 91",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/91.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/91.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4b",
+    "title": "EVGA PC Components Product 92",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/92.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/92.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4c",
+    "title": "Cooler Master PC Components Product 93",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/93.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/93.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4d",
+    "title": "Crucial PC Components Product 94",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/94.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/94.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4e",
+    "title": "NZXT PC Components Product 95",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/95.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/95.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c31",
+    "title": "Google Smart Home Product 66",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/66.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/66.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c50",
+    "title": "Cooler Master PC Components Product 97",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/97.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/97.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c51",
+    "title": "Crucial PC Components Product 98",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/98.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/98.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c52",
+    "title": "NZXT PC Components Product 99",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/99.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/99.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c53",
+    "title": "EVGA PC Components Product 100",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/100.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/100.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c54",
+    "title": "Shure Audio Equipment Product 101",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/101.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/101.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c55",
+    "title": "Audio-Technica Audio Equipment Product 102",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/102.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/102.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c56",
+    "title": "Elgato Audio Equipment Product 103",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/103.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/103.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c57",
+    "title": "Blue Audio Equipment Product 104",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/104.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/104.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c58",
+    "title": "Shure Audio Equipment Product 105",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/105.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/105.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c59",
+    "title": "Audio-Technica Audio Equipment Product 106",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/106.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/106.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5a",
+    "title": "Elgato Audio Equipment Product 107",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/107.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/107.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5b",
+    "title": "Blue Audio Equipment Product 108",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/108.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/108.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c3a",
+    "title": "Samsung Storage Product 75",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/75.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/75.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5d",
+    "title": "Audio-Technica Audio Equipment Product 110",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/110.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/110.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5e",
+    "title": "Glossier Makeup Product 111",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/111.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/111.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5f",
+    "title": "MAC Makeup Product 112",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/112.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/112.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c60",
+    "title": "Dyson Makeup Product 113",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/113.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/113.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c61",
+    "title": "GHD Makeup Product 114",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/114.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/114.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c62",
+    "title": "Glossier Makeup Product 115",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/115.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/115.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c63",
+    "title": "MAC Makeup Product 116",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/116.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/116.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c64",
+    "title": "Dyson Makeup Product 117",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/117.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/117.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c65",
+    "title": "GHD Makeup Product 118",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/118.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/118.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c66",
+    "title": "Glossier Makeup Product 119",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/119.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/119.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c67",
+    "title": "MAC Makeup Product 120",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/120.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/120.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c68",
+    "title": "Sony Gaming Consoles Product 121",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/121.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/121.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c69",
+    "title": "Microsoft Gaming Consoles Product 122",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/122.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/122.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6a",
+    "title": "Nintendo Gaming Consoles Product 123",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/123.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/123.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6b",
+    "title": "Valve Gaming Consoles Product 124",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/124.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/124.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6c",
+    "title": "Sony Gaming Consoles Product 125",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/125.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/125.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6d",
+    "title": "Microsoft Gaming Consoles Product 126",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/126.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/126.jpg",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6e",
+    "title": "Nintendo Gaming Consoles Product 127",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/127.jpg",
+        "status": "BROKEN",
+        "error": ""
+      },
+      {
+        "url": "https://example.com/products/127.jpg",
+        "status": "BROKEN",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c6f",
+    "title": "Valve Gaming Consoles Product 128",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/128.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/128.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c70",
+    "title": "Sony Gaming Consoles Product 129",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/129.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/129.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c71",
+    "title": "Microsoft Gaming Consoles Product 130",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/130.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/130.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c72",
+    "title": "Xiaomi Smartphones Product 131",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/131.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/131.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c73",
+    "title": "OnePlus Smartphones Product 132",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/132.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/132.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c74",
+    "title": "Google Smartphones Product 133",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/133.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/133.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c75",
+    "title": "Motorola Smartphones Product 134",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/134.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/134.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c76",
+    "title": "Xiaomi Smartphones Product 135",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/135.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/135.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c4f",
+    "title": "EVGA PC Components Product 96",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/96.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/96.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c78",
+    "title": "Google Smartphones Product 137",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/137.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/137.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c79",
+    "title": "Motorola Smartphones Product 138",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/138.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/138.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7a",
+    "title": "Xiaomi Smartphones Product 139",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/139.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/139.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7b",
+    "title": "OnePlus Smartphones Product 140",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/140.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/140.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7c",
+    "title": "Stanley Drinkware Product 141",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/141.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/141.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7d",
+    "title": "Yeti Drinkware Product 142",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/142.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/142.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7e",
+    "title": "Contigo Drinkware Product 143",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/143.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/143.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c7f",
+    "title": "S'well Drinkware Product 144",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/144.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/144.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c80",
+    "title": "Stanley Drinkware Product 145",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/145.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/145.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c81",
+    "title": "Yeti Drinkware Product 146",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/146.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/146.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c82",
+    "title": "Contigo Drinkware Product 147",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/147.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/147.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c83",
+    "title": "S'well Drinkware Product 148",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/148.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/148.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c84",
+    "title": "Stanley Drinkware Product 149",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/149.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/149.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c85",
+    "title": "Yeti Drinkware Product 150",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/150.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/150.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c5c",
+    "title": "Shure Audio Equipment Product 109",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/109.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/109.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  },
+  {
+    "productId": "697930fcaa7ec6358a2d8c77",
+    "title": "OnePlus Smartphones Product 136",
+    "brokenImages": [
+      {
+        "url": "https://example.com/products/136.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      },
+      {
+        "url": "https://example.com/products/136.jpg",
+        "status": "BROKEN",
+        "error": "Request failed with status code 404"
+      }
+    ]
+  }
+]
