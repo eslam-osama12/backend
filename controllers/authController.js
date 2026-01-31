@@ -273,7 +273,8 @@ exports.googleLogin = asyncHandler(async (req, res, next) => {
     });
     payload = ticket.getPayload();
   } catch (err) {
-    return next(new AppError("Invalid Google token", 401));
+    console.error("Google verifyIdToken error:", err);
+    return next(new AppError(`Invalid Google token: ${err.message}`, 401));
   }
 
   const { sub: googleId, email, name, picture } = payload;
