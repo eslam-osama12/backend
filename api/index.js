@@ -1,9 +1,8 @@
-const dotenv = require("dotenv");
-const path = require("path");
-
-// Load config.env only in development
-// In production (Vercel), use environment variables from dashboard
+// In production (Vercel), environment variables are set in the dashboard
+// Only load dotenv in development
 if (process.env.NODE_ENV !== "production") {
+  const dotenv = require("dotenv");
+  const path = require("path");
   dotenv.config({ path: path.resolve(__dirname, "../config.env") });
 }
 
