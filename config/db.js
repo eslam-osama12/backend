@@ -8,7 +8,7 @@ if (!cached) {
 }
 
 const dbConnection = async () => {
-  // Validate DB_URI
+  // Validate MONGO_URI
   if (!process.env.MONGO_URI) {
     throw new Error(
       "MONGO_URI environment variable is not set. Please add it to Vercel Environment Variables.",

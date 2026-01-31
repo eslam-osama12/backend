@@ -98,6 +98,10 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 // Mount Routes
 mountRoutes(app);
 
+app.get("/", (req, res) => {
+  res.send("API is running...");
+});
+
 app.all(/.*/, (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
 });
