@@ -22,6 +22,7 @@ const mountRoutes = require("./routes");
 const { webhookCheckout } = require("./controllers/orderController");
 
 const app = express();
+app.set("trust proxy", 1);
 
 // Stripe webhook (must be before express.json())
 app.post(
