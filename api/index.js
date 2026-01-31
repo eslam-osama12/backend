@@ -8,7 +8,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 // Validate required environment variables
-const requiredEnvVars = ["DB_URI", "JWT_SECRET"];
+const requiredEnvVars = ["MONGO_URI", "JWT_SECRET"];
 const missingEnvVars = requiredEnvVars.filter((envVar) => !process.env[envVar]);
 
 if (missingEnvVars.length > 0) {
