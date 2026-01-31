@@ -1,4 +1,12 @@
+# Environment variables
 config.env
-.env
+# Dependencies
 node_modules/
-.agent
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+config copy.env
