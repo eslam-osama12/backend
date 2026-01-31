@@ -9,9 +9,22 @@ if (!cached) {
 
 const dbConnection = async () => {
   // Validate MONGO_URI
-  if (!process.env.MONGO_URI) {
+  const uri = process.env.MONGO_URI;
+  if (!uri) {
     throw new Error(
       "MONGO_URI environment variable is not set. Please add it to Vercel Environment Variables.",
+    );
+  }
+
+  // Validate Scheme
+  if (!uri.startsWith("mongodb://") && !uri.startsWith("mongodb+srv://")) {
+    // Log safe version to avoid leaking credentials
+    const redactedUri = uri.length > 10 ? `${uri.substring(0, 10)}...` : uri;
+    console.error(
+      `CRITICAL ERROR: Invalid MONGO_URI scheme. Value starts with: '${redactedUri}'`,
+    );
+    throw new Error(
+      `Invalid MONGO_URI scheme. Expected 'mongodb://' or 'mongodb+srv://'. Got start: '${redactedUri}'`,
     );
   }
 
